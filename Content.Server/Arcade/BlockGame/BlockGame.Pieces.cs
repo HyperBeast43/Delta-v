@@ -19,9 +19,9 @@ public sealed partial class BlockGame
     {
         I,
         L,
-        LInverted,
+        R,
         S,
-        SInverted,
+        Z,
         T,
         O
     }
@@ -175,7 +175,7 @@ public sealed partial class BlockGame
                     _gameBlockColor = BlockGameBlock.BlockGameBlockColor.Orange,
                     CanSpin = true
                 },
-                BlockGamePieceType.LInverted => new BlockGamePiece
+                BlockGamePieceType.R => new BlockGamePiece
                 {
                     Offsets = new[]
                     {
@@ -195,7 +195,7 @@ public sealed partial class BlockGame
                     _gameBlockColor = BlockGameBlock.BlockGameBlockColor.Green,
                     CanSpin = true
                 },
-                BlockGamePieceType.SInverted => new BlockGamePiece
+                BlockGamePieceType.Z => new BlockGamePiece
                 {
                     Offsets = new[]
                     {
