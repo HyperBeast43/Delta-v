@@ -1,34 +1,4 @@
 ﻿Entries:
-- author: DisposableCrewmember42
-  changes:
-  - message: The pAI Software Catalog can be opened again
-    type: Fix
-  id: 1798
-  time: '2025-11-14T21:20:06.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4651
-- author: SirWarock
-  changes:
-  - message: A recent Lawsuit forced NT to provide a carepackage to NT stations if
-      their station's medical can't subdue a viral outbreak on their own.
-    type: Add
-  id: 1799
-  time: '2025-11-14T22:49:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4593
-- author: AeraAuling
-  changes:
-  - message: Ifrit have returned to the delta sector
-    type: Add
-  id: 1800
-  time: '2025-11-14T23:09:55.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4570
-- author: DisposableCrewmember42
-  changes:
-  - message: Shock collars are now secured. Those without access will be shocked,
-      so smuggle insuls into perma!
-    type: Tweak
-  id: 1801
-  time: '2025-11-14T23:16:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4654
 - author: SirWarock
   changes:
   - message: Added Jaegermister and a few cocktails made from it!
@@ -4364,4 +4334,35 @@
   id: 2298
   time: '2026-05-15T21:32:40.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5503
+- author: sowelipililimute
+  changes:
+  - message: You can now build pagers that send notifications to linked PDAs when
+      pressed.
+    type: Add
+  id: 2299
+  time: '2026-05-16T15:08:50.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5799
+- author: rebe83
+  changes:
+  - message: Diona nymphs are now ghost roles. Chirp!
+    type: Tweak
+  id: 2300
+  time: '2026-05-16T15:21:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5802
+- author: Radezolid
+  changes:
+  - message: Now syndicate refugees spawn with a syndicate headset again, but with
+      the common channel only.
+    type: Tweak
+  id: 2301
+  time: '2026-05-17T05:45:23.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5698
+- author: Stxcking
+  changes:
+  - message: Added a new plant mutation between Ambrosia Vulgaris and Ambrosia Deus
+      called "Ambrosia Nobilis" which contains Tricordrazine and Negacordrazine!
+    type: Add
+  id: 2302
+  time: '2026-05-18T00:09:51.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5575
 Order: 1
